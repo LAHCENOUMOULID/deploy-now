@@ -1,0 +1,1 @@
+web: uvicorn app:app --host 8.8.8.8 --port $PORT
